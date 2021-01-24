@@ -132,10 +132,11 @@ body {
 }
 
 .tv-video {
+  display: block;
   position: absolute;
   right: 64px;
-  bottom: -192px;
   z-index: -1;
+  margin-top: -197px;
 }
 
 .card-movil__img {
